@@ -17,7 +17,6 @@ let Card = (props) => {
               <h3>{items.companyId.name}</h3>
             </div>
           </div>
-          <span>This is new line</span>
         </div>
       );
     });
